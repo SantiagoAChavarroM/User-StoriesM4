@@ -1,4 +1,4 @@
-# Academic Management System — SQL Implementation 🎓
+# Academic Management System — SQL Implementation
 
 Santiago Alejandro Chavarro Murillo  
 Clan: Thompson  
@@ -11,7 +11,7 @@ The main objective was to design and implement a complete academic database syst
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Develop a fully functional relational database system to manage:
 
@@ -31,7 +31,7 @@ The system ensures:
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - MySQL 8.x  
 - SQL (DDL, DML, DQL, DCL, TCL)  
@@ -39,7 +39,7 @@ The system ensures:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 gestion_academica.sql  
 
@@ -57,7 +57,7 @@ The script includes:
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 This project reinforced:
 
@@ -74,6 +74,6 @@ This project reinforced:
 
 ---
 
-## 📌 Final Result
+## Final Result
 
 A complete academic management system implemented entirely in SQL, demonstrating strong knowledge of relational database design, advanced querying, access control, and transactional consistency.
